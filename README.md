@@ -6,7 +6,7 @@
   
   2.after data cleaning, save it into boxoffice.csv file
   
-  3.you can see this process in $WEB SCRAPING OF Box Office .ipynb$
+  3.you can see this process in WEB SCRAPING OF Box Office.ipynb
  
  
 * step 1 statistical analysis of top 200 movies at worldwide box office from 2000 to 2017
@@ -37,7 +37,7 @@
 
   1.it is based on 7 movies among 2017 top 200 movies we get from step2.
   
-  2.you can this process in $Analysis of 7 movies with different domestic and Chinese box office.ipynb$.
+  2.you can this process in Analysis of 7 movies with different domestic and Chinese box office.ipynb.
 
 
 ## PART 2 Analysis about the potential influence features that may account for the difference in Box Office
