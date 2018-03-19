@@ -19,7 +19,7 @@
   
   4.which movies are included in the top 10 of the worldwide, the domestic and the overseas box office? Is there a large difference?
   
-  5.could the title of the movie affect the box office? Is there a pattern of naming for the movies with highest box office? Or the movies with most succesful box office share same words?
+  5.could the title of the movie affect the box office? is there a pattern of naming for the movies with highest box office? or the movies with most succesful box office share same words?
  
  
 * step 2 specific analysis of 2017 top 200 movies at worldwide box office
@@ -30,7 +30,7 @@
   
   3.has the Big Six still ruled the movie market?
   
-  4.find Hollywood movies have higher box office in China instead of in the USA.
+  4.find domestic movies have higher box office in China instead of in the USA.
 
 
 * step 3 detailed analysis of movies that have different domestic and Chinese box office 
