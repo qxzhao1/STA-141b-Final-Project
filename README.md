@@ -4,11 +4,11 @@ After finding out those 7 movies that are produced domestically while having hig
 
 ### Question:
 
-1. Since social media such as FaceBook and Twitter are becoming more and more essential to our life, will that influence the Box Office? i.e. If someone gave some negative feedback for a certain movie, would that account for the canceling of plans of others about watching it?
+1. Since social media such as FaceBook and Twitter are becoming more influential to our life, will that affect the Box Office? i.e. If someone gave the negative feedback of a movie, would that make others who see the feedback reluctant to see that movie? Or could these negative ratings account for the decline of the box office?
 
-2. What role do movie judging websites IMDB and Douban play in the difference of domestic and international Box Office? Does the positive or negative rate on those two websites indicate the higher Chinese Box Office and the lower Domestic Box Office?
+2. Are those 7 movies have different evaluations from  movie judging websites IMDB and Douban? Could the positive or negative ratings on those two websites indicate the higher or lower Box Office of China?
 
-3. Chinese people are huge funs of movie stars! It is a common prhenomenon that a large population of Chinese people watch a certain movie only because their favourite stars appear in that movie. Is that the same in America? Will the lower domestic Box Office comes from choosing the wrong actors? Also, the similar assumptions for directors.
+3. Chinese audiences are huge fans of some stars! It is a common phenomenon that most Chinese audience will watch movies where their idols play a role, though sometimes just a guest appearance. Is that a universal phenomenon in America? Should leading actors with less enormous fan base be responsible for the compartively lower domestic Box Office? Is this also true for directors?
 
 4. Besides, we have special designed plots for director detailed data and it is actually user friendly,i.e. you can actually build  your own "conclusion" by putting different criteria for different directors and then check its relationship with Box Office. 
 
