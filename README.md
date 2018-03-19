@@ -10,6 +10,10 @@ After finding out those 7 movies that are produced domestically while having hig
 
 3. Chinese people are huge funs of movie stars! It is a common prhenomenon that a large population of Chinese people watch a certain movie only because their favourite stars appear in that movie. Is that the same in America? Will the lower domestic Box Office comes from choosing the wrong actors? Also, the similar assumptions for directors.
 
+4. Besides, we have special designed plots for director detailed data and it is actually user friendly,i.e. you can actually build  your own "conclusion" by putting different criteria for different directors and then check its relationship with Box Office. 
+
+Curious, huh? Go ahead and check our notebooks!
+
 ### Fetching data:
 First step is getting needed data from the corresponding websites. Folder named "DATA fetching for different feature studies for those 7 movies" contains notebooks about the methods of fetching each feature data set. There are total three notebooks where the methods of getting actor and director data are in the same notebook basically because the structure of the web pages of the actor data and director data are similar. 
 
