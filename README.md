@@ -2,6 +2,14 @@
 
 After finding out those 7 movies that are produced domestically while having higher Chinese Box Office, we focus on finding the reason behind it. Based on common potential possibilities that may influence the Box Office of a specific movies, we decide to focus on director effect, leading cast effect, popularity effect and social media effect. 
 
+### Question:
+
+1. Since social media such as FaceBook and Twitter are becoming more and more essential to our life, will that influence the Box Office? i.e. If someone gave some negative feedback for a certain movie, would that account for the canceling of plans of others about watching it?
+
+2. What role do movie judging websites IMDB and Douban play in the difference of domestic and international Box Office? Does the positive or negative rate on those two websites indicate the higher Chinese Box Office and the lower Domestic Box Office?
+
+3. Chinese people are huge funs of movie stars! It is a common prhenomenon that a large population of Chinese people watch a certain movie only because their favourite stars appear in that movie. Is that the same in America? Will the lower domestic Box Office comes from choosing the wrong actors? Also, the similar assumptions for directors.
+
 ### Fetching data:
 First step is getting needed data from the corresponding websites. Folder named "DATA fetching for different feature studies for those 7 movies" contains notebooks about the methods of fetching each feature data set. There are total three notebooks where the methods of getting actor and director data are in the same notebook basically because the structure of the web pages of the actor data and director data are similar. 
 
